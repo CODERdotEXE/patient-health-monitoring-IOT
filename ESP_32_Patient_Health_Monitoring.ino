@@ -13,8 +13,8 @@
 float temperature, humidity, BPM, SpO2, bodytemperature;
 
 /*Put your SSID & Password*/
-const char *ssid = "Shaldar";  // Enter SSID here
-const char *password = "Sarnabh@03";  // Enter Password here
+const char *ssid = "**********";  // Enter SSID here
+const char *password = "**********";  // Enter Password here
 
 Bonezegei_DHT11 dhtSensor(DHT11_PIN);  // Create an instance of Bonezegei_DHT11
 
